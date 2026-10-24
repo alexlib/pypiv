@@ -4,3 +4,4 @@
 *.swp
 build/
 _build/
+uv.lock
